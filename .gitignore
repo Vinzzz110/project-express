@@ -1,0 +1,3 @@
+# file ini digunakan untuk mendefinisikan nama folder atau nama file yang tidak ikut di upload ke github
+node_modules/
+dist/
